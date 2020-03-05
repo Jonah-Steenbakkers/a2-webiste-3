@@ -1,0 +1,39 @@
+/* Style all elements with the class name "pup" */
+.pup {
+  font-family:Arial;
+  font-size:400%;
+  color:white;
+  text-align:center;
+}
+/* Style all elements with the class name "pgraph" */
+.pgraph {
+  border-top:1px solid black;
+  font-family:Arial;
+  font-size:150%;
+  border-bottom:1px solid black;
+  margin-left:25px;
+  margin-right:25px;
+}
+/* Style all elements with the class name "photo" */
+.photo {
+  width:30%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+body {
+  background-color:powderblue;
+}
+/* Style all elements with the class name "pgraph2" */
+.pgraph2 {
+  font-family:Arial;
+  font-size:150%;
+  border-bottom:1px solid black;
+  margin-left:25px;
+  margin-right:25px;
+}
+button {
+  width:200px;
+  height:50px;
+  border-color:red;
+}
